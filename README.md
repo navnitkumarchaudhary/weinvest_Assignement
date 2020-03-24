@@ -45,7 +45,9 @@ this command will install all node-modules package ans dependency
 
 this command will insatll the redux dependencies.
 
+### `npm install axios`
 
+this command will install the axios library(third party) for api call
 
 
 
