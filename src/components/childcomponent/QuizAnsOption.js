@@ -1,7 +1,6 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const AnswerOption = props => {
+const QuizAnsOption = props => {
   return (
     <li className="answerOption">
       <input
@@ -21,10 +20,4 @@ const AnswerOption = props => {
   );
 }
 
-AnswerOption.propTypes = {
-  answerContent: PropTypes.string.isRequired,
-  answer: PropTypes.string.isRequired,
-  onAnswerSelected: PropTypes.func.isRequired
-};
-
-export default AnswerOption;
+export default QuizAnsOption;

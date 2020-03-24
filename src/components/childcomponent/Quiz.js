@@ -3,7 +3,7 @@ import QuizQuestion from './QuizQuestion';
 import QuizCount from './QuizCount';
 import QuizOption from './QuizAnsOption';
 
-function Quiz(props) {
+const Quiz = props => {
 
   return (
     <div key={props.questionId}>
