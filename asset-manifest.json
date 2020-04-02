@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weinvest_Assignement/static/css/main.df3badc9.chunk.css",
+    "main.js": "/weinvest_Assignement/static/js/main.9879dbc6.chunk.js",
+    "main.js.map": "/weinvest_Assignement/static/js/main.9879dbc6.chunk.js.map",
+    "runtime-main.js": "/weinvest_Assignement/static/js/runtime-main.8d9a5556.js",
+    "runtime-main.js.map": "/weinvest_Assignement/static/js/runtime-main.8d9a5556.js.map",
+    "static/js/2.cff49b24.chunk.js": "/weinvest_Assignement/static/js/2.cff49b24.chunk.js",
+    "static/js/2.cff49b24.chunk.js.map": "/weinvest_Assignement/static/js/2.cff49b24.chunk.js.map",
+    "index.html": "/weinvest_Assignement/index.html",
+    "precache-manifest.057e6b3fbad2e53d1beeb208410a2d87.js": "/weinvest_Assignement/precache-manifest.057e6b3fbad2e53d1beeb208410a2d87.js",
+    "service-worker.js": "/weinvest_Assignement/service-worker.js",
+    "static/css/main.df3badc9.chunk.css.map": "/weinvest_Assignement/static/css/main.df3badc9.chunk.css.map",
+    "static/js/2.cff49b24.chunk.js.LICENSE.txt": "/weinvest_Assignement/static/js/2.cff49b24.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weinvest_Assignement/static/media/icon-check.4cffa739.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9a5556.js",
+    "static/js/2.cff49b24.chunk.js",
+    "static/css/main.df3badc9.chunk.css",
+    "static/js/main.9879dbc6.chunk.js"
+  ]
+}
