@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://navnitkumarchaudhary.github.io/weinvest_Assignement",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
